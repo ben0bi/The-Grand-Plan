@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="232.83839mm"
+   height="232.83839mm"
+   viewBox="0 0 232.83839 232.83839"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="TRTF_badge.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-24.465932"
+     inkscape:cy="559.37232"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="1432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-left="10"
+     fit-margin-top="10"
+     fit-margin-bottom="10"
+     fit-margin-right="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG"
+     style="display:inline"
+     transform="translate(11.419199,-32.080801)">
+    <circle
+       style="opacity:1;fill:#000080;fill-opacity:0.99035369;stroke:#ffff00;stroke-width:8.73124981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4568"
+       cx="105"
+       cy="148.5"
+       r="102.05357" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.55720377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4572"
+       cx="105"
+       cy="148.5"
+       r="70.681541" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Portal"
+     style="display:inline"
+     transform="translate(11.419199,-32.080801)">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:#ff0000;stroke-width:2.87745667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4679"
+       sodipodi:sides="5"
+       sodipodi:cx="104.81319"
+       sodipodi:cy="145.73524"
+       sodipodi:r1="63.076748"
+       sodipodi:r2="31.538374"
+       sodipodi:arg1="0.95206199"
+       sodipodi:arg2="1.5803805"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 141.39799,197.1184 104.51092,177.27217 67.250232,196.40773 74.726383,155.19322 45.0132,125.66941 86.520784,120.04367 105.41772,82.661394 123.59466,120.399 l 41.39213,6.4203 -30.27361,28.94886 z"
+       inkscape:transform-center-x="-0.18679973"
+       inkscape:transform-center-y="-5.8453421" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4681"
+       sodipodi:cx="103.2739"
+       sodipodi:cy="148.73312"
+       sodipodi:expansion="0.61000001"
+       sodipodi:revolution="8.3034067"
+       sodipodi:radius="28.564177"
+       sodipodi:argument="-80.152603"
+       sodipodi:t0="0.2172859"
+       d="m 114.03235,152.04509 c -1.5598,6.24173 -8.18689,9.91397 -14.343239,8.33271 -6.705786,-1.72238 -10.642939,-8.86387 -8.904927,-15.48961 1.875611,-7.1503 9.509366,-11.34166 16.583996,-9.45473 7.57791,2.02116 12.01413,10.12803 9.98494,17.63392 -2.16025,7.99069 -10.72345,12.66354 -18.645248,10.49784 -8.390305,-2.29379 -13.29246,-11.29847 -10.99525,-19.62261 2.422504,-8.77815 11.855375,-13.90301 20.569738,-11.47873 9.15537,2.54696 14.49696,12.39605 11.94957,21.48974 -2.66763,9.52292 -12.92206,15.07581 -22.385195,12.40888 -9.881645,-2.78489 -15.640841,-13.43475 -12.857582,-23.2583 2.89905,-10.23224 13.935213,-16.19315 24.110907,-13.29652 10.57534,3.0104 16.73371,14.42446 13.72639,24.94466 -3.11916,10.91146 -14.90331,17.26335 -25.760935,14.14784 -11.241108,-3.22555 -17.782837,-15.37254 -14.561427,-26.561 3.329734,-11.56469 15.832781,-18.29281 27.345942,-14.96765 11.88259,3.43187 18.79387,16.28463 15.36694,28.11672 -3.53209,12.19516 -16.72861,19.28655 -28.874219,15.75972 -12.50268,-3.63051 -19.771318,-17.16517 -16.146344,-29.61921 3.727259,-12.80545 17.594754,-20.24862 30.352403,-16.52714 13.10372,3.82242 20.71885,18.01773 16.90242,31.07445 -3.91609,13.39769 -18.43446,21.18235 -31.785911,17.27244 -13.687619,-4.00834 -21.639466,-18.84525 -17.637477,-32.48734 4.099261,-13.97367 19.250402,-22.0905 33.179208,-17.99774 14.25603,4.1889 22.53573,19.65017 18.35346,33.86198 -4.27733,14.53485 -20.0448,22.9754 -34.536044,18.70482 -14.757209,-4.34896 -23.36026,-20.32628 -19.092645,-35.06286"
+       transform="matrix(0.31596284,1.0117679,-1.0117679,0.31596284,223.42229,-5.4251692)" />
+  </g>
+  <g
+     inkscape:label="TRTF"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(11.419199,-32.080801)">
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.26164746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4694534"
+       id="path4526"
+       cx="-28.313938"
+       cy="179.65402"
+       r="75.48616"
+       transform="rotate(-44.219305)" />
+    <circle
+       transform="rotate(-118.30823)"
+       r="75.48616"
+       cy="22.022083"
+       cx="-180.53333"
+       id="circle4556"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.26164746;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4694534" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.69444847px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4532"><textPath
+         xlink:href="#path4526"
+         id="textPath4534"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.69444847px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#ff0000;stroke-width:0.26458332"
+   id="tspan4530"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.69444847px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#ff0000;stroke-width:0.26458332"
+     id="tspan4528"
+     y="89.141846"
+     x="31.749777">Technology Retrieval Task Force</tspan></tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4562"><textPath
+         xlink:href="#circle4556"
+         id="textPath4564"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#ffff00;stroke-width:0.26458332"
+   id="tspan4560"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#ffff00;stroke-width:0.26458332"
+     id="tspan4558"
+     y="-27.385408"
+     x="-370.41666">T R T F</tspan></tspan></textPath></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="SLOGAN"
+     style="display:inline"
+     transform="translate(11.419199,-32.080801)">
+    <circle
+       style="opacity:0.23299997;fill:none;fill-opacity:1;stroke:none;stroke-width:4.40860558;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4640"
+       cx="-116.03741"
+       cy="140.04491"
+       r="67.846725"
+       transform="matrix(-0.99707787,-0.07639195,-0.07639195,0.99707787,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;line-height:1.25;font-family:'Marquisette BTN Lined';-inkscape-font-specification:'Marquisette BTN Lined Bold';letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text4666"><textPath
+         xlink:href="#path4640"
+         id="textPath4668"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Marquisette BTN Lined';-inkscape-font-specification:'Marquisette BTN Lined Bold';fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4664"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Marquisette BTN Lined';-inkscape-font-specification:'Marquisette BTN Lined Bold';fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="tspan4662"
+     y="156.05943"
+     x="42.081596">GIVE  IT        OR  WE       STEAL  IT</tspan></tspan></textPath></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4683"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4685"><rect
+           id="rect4687"
+           width="1254.6095"
+           height="1145.5129"
+           x="-157.5838"
+           y="31.554937" /></flowRegion><flowPara
+         id="flowPara4689"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4691"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4693"><rect
+           id="rect4695"
+           width="1347.5435"
+           height="1135.4115"
+           x="-129.29953"
+           y="-63.399403" /></flowRegion><flowPara
+         id="flowPara4697"></flowPara></flowRoot>  </g>
+</svg>
