@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="TRTF_badge.svg">
+   sodipodi:docname="TRTF_badge.svg"
+   inkscape:export-filename="C:\Users\ben0bi\Desktop\ARBEIT\The-Grand-Plan\TRTF\TRTF_badge.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-24.465932"
+     inkscape:cx="-465.90259"
      inkscape:cy="559.37232"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -49,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -189,7 +192,7 @@
            height="1145.5129"
            x="-157.5838"
            y="31.554937" /></flowRegion><flowPara
-         id="flowPara4689"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4689" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4691"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -200,5 +203,5 @@
            height="1135.4115"
            x="-129.29953"
            y="-63.399403" /></flowRegion><flowPara
-         id="flowPara4697"></flowPara></flowRoot>  </g>
+         id="flowPara4697" /></flowRoot>  </g>
 </svg>
