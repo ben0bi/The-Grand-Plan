@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="-1566.7676"
-     inkscape:cy="373.70856"
+     inkscape:zoom="1.4"
+     inkscape:cx="333.32123"
+     inkscape:cy="455.58638"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,9 +81,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';text-align:center;text-anchor:middle"
          id="flowPara1241" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:'Dyer Arts and Crafts';-inkscape-font-specification:'Dyer Arts and Crafts';text-align:center;text-anchor:middle"
-         id="flowPara1191">SPIELPLATZ GEGENÜBER ETA,</flowPara><flowPara
+         id="flowPara1191">&quot;SPIELPLATZ&quot; (WIESE) GEGENÜBER ETA,</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:'Dyer Arts and Crafts';-inkscape-font-specification:'Dyer Arts and Crafts';text-align:center;text-anchor:middle"
-         id="flowPara1199">LEIBER-NICKHTH ZENTRUM</flowPara><flowPara
+         id="flowPara1199">LEIBERN-IKHTH ZENTRUM</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:'Dyer Arts and Crafts';-inkscape-font-specification:'Dyer Arts and Crafts';text-align:center;text-anchor:middle"
          id="flowPara1243" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';text-align:center;text-anchor:middle"
@@ -232,27 +232,29 @@
        xml:space="preserve"
        id="flowRoot1080"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Dyer Arts and Crafts';-inkscape-font-specification:'Dyer Arts and Crafts';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-36.92789,-11.561082)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-37.49478,-11.561082)"><flowRegion
          id="flowRegion1082"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Dyer Arts and Crafts';-inkscape-font-specification:'Dyer Arts and Crafts';text-align:center;text-anchor:middle"><rect
            id="rect1084"
-           width="727.30988"
-           height="91.446007"
+           width="731.59558"
+           height="152.87456"
            x="172.73608"
            y="626.53479"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Dyer Arts and Crafts';-inkscape-font-specification:'Dyer Arts and Crafts';text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara1086"
-         style="font-size:24px;text-align:center;text-anchor:middle">NUR GÜLTIG MIT Stempel der Polizei<flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';text-align:center;text-anchor:middle"
-   id="flowSpan1221"></flowSpan></flowPara><flowPara
+         style="font-size:24px;text-align:center;text-anchor:middle">NUR GÜLTIG MIT Stempel der Polizei</flowPara><flowPara
          style="font-size:24px;text-align:center;text-anchor:middle"
-         id="flowPara1223"><flowSpan
+         id="flowPara912"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';text-align:center;text-anchor:middle"
    id="flowSpan1225">(</flowSpan>KaPo <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';text-align:center;text-anchor:middle"
    id="flowSpan1217">oder</flowSpan> StaPo<flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';text-align:center;text-anchor:middle"
-   id="flowSpan1219">)</flowSpan></flowPara></flowRoot>    <g
+   id="flowSpan1219">)</flowSpan></flowPara><flowPara
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         id="flowPara931">UND EINEM KAFFEEFLECK </flowPara><flowPara
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         id="flowPara934" /></flowRoot>    <g
        id="g1179"
        transform="translate(-1.0583338)">
       <flowRoot
@@ -331,7 +333,7 @@
            height="136.42857"
            x="203.57143"
            y="491.09113" /></flowRegion><flowPara
-         id="flowPara1235"></flowPara></flowRoot>    <flowRoot
+         id="flowPara1235" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot1247"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Amptmann Script';-inkscape-font-specification:'Amptmann Script';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -353,5 +355,5 @@
            height="57.142857"
            x="25"
            y="1064.6626" /></flowRegion><flowPara
-         id="flowPara1261"></flowPara></flowRoot>  </g>
+         id="flowPara1261" /></flowRoot>  </g>
 </svg>
