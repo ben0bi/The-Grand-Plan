@@ -18,6 +18,17 @@ It has to be open-sourced.
 Everyone can be a member of TRTF because it's 
 meant for everyone to use that technologies.
 
+TRTF Missions:
+00: Not to be revealed to the public right now, sorry.
+First, the law must be changed. Globally. It's on the way. ;)
+
+01: Open at nightshift
+(That one can buy the stuff outside of regular open times.)
+(There are people who are awake when everyone other sleeps.
+This is discriminating for this people...)
+
+02: Make better places. Make places better. See the betterplace-paper.
+
 Thanks for your attention and
 maybe thanks for your help.
 
